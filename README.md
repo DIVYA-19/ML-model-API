@@ -8,4 +8,5 @@ END-to-END machine learning model built on iris dataset
 
 To run the application
 - clone the repo
+- run `pip install -r requirements.txt`
 - run `python api.py`
